@@ -12,12 +12,12 @@ const projects =[
     },
     {
         id:2,
-        title:"E commerce Website",
-        description:"Fashoin E commerce website with admin and user panel",
-        image:"/projects/Project2.png",
-        tags: ["React","MongoDb","Tailwind"],
-        github:"https://github.com/Tanishq67m/Ecomm_forever",
-        demoUrl:"#"
+        title:"AI PDF Summariser",
+        description:"Pdf summariser using AI",
+        image:"/projects/Homepg1.png",
+        tags: ["Next","Postgres","Tailwind","OpenAI"],
+        github:"https://github.com/Tanishq67m/PdfSummarySaaS",
+        demoUrl:"http://pdf-summary-saas-75zx.vercel.app"
     }
 
 ]
